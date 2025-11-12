@@ -1,0 +1,7 @@
+ *.o
+*.obj
+*.a
+*.so
+*.so.*
+bin/
+obj/
